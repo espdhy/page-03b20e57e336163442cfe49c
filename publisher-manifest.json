@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "ef3f311d2d66591d741573e9",
+  "owner": "espdhy",
+  "repo": "page-03b20e57e336163442cfe49c",
+  "title": "快鱼(Fastfish)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "03b20e57e336163442cfe49c",
+      "a": "快鱼(Fastfish)",
+      "b": "免费clash订阅",
+      "entity": "快鱼(Fastfish)",
+      "brand": "快鱼(Fastfish)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "0227f98f688375289403b7be4e019a177c9f187842decf31e8c55a0afa88aed3",
+      "content": {
+        "primary_entity": "快鱼(Fastfish)",
+        "keyword1": "快鱼(Fastfish)",
+        "keyword2": "免费clash订阅",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备系统选择合适客户端，按文档导入订阅即可连接。",
+          "AI_CLIENTS_TITLE": "客户端选择建议",
+          "AI_CLOSING_TEXT": "选好设备与套餐后即可按文档配置，快速开始稳定连接。",
+          "AI_CLOSING_TITLE": "开启快鱼加速",
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置与套餐对比提供清晰指引，帮助用户按需选择适合的加速方案。",
+          "AI_FEATURES_INTRO": "从套餐、设备到订阅周期，按实际需求选择更合适。",
+          "AI_FEATURES_TITLE": "选择要点",
+          "AI_FEATURE_TEXT_1": "基础版 100GB/3 台设备，旗舰版 300GB/5 台设备，团队版 1000GB/20 台设备。",
+          "AI_FEATURE_TEXT_2": "按年付可省：基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。",
+          "AI_FEATURE_TEXT_3": "旗舰版搭载 IPLC 专线游戏加速优化，适合对延迟敏感的游戏场景。",
+          "AI_FEATURE_TITLE_1": "按流量与设备选",
+          "AI_FEATURE_TITLE_2": "按年付更省",
+          "AI_FEATURE_TITLE_3": "游戏加速优选",
+          "AI_GUIDE_INTRO": "三步完成：选服务、看适配、配订阅。",
+          "AI_GUIDE_TITLE": "快速配置指南",
+          "AI_HERO_INTRO": "快鱼提供多档海外加速方案，覆盖基础、旗舰与团队套餐，可按流量、设备数和订阅周期灵活选择，满足日常浏览、流媒体与游戏等场景。",
+          "AI_HERO_SUBTITLE": "多档海外加速方案灵活选",
+          "AI_HIGHLIGHT_1": "基础版 ¥15/月 或 ¥150/年",
+          "AI_HIGHLIGHT_2": "旗舰版 ¥35/月 或 ¥350/年",
+          "AI_HIGHLIGHT_3": "团队版 ¥85/月 或 ¥850/年",
+          "AI_PLANS_INTRO": "基础版每月 100GB 支持 3 台设备，适合轻度日常使用。",
+          "AI_PLANS_TITLE": "套餐对比与选择",
+          "AI_STEP_TEXT_1": "根据使用人数与流量需求，在基础版、旗舰版和团队版中选择。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_2": "确认设备系统与同时在线数量，确保所选套餐满足需求。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "参考对应客户端文档，导入订阅地址完成配置并连接。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "快鱼海外加速",
+          "AI_FAQ_ANSWER_1": "旗舰版支持5台设备同时在线，是三个套餐中设备数量居中的选择。如果家庭或小团队人数更多，可以升级到团队版，支持20台设备。",
+          "AI_FAQ_ANSWER_2": "流量超出后，可以等待下月重置，或者升级到更高档套餐。旗舰版每月300GB、团队版每月1000GB，能覆盖多数日常使用场景。",
+          "AI_FAQ_ANSWER_3": "Win 平台常用 Clash、v2rayN；macOS 可用 ClashX、V2RayX；Android 可选 v2rayNG、Clash for Android；iOS 可用 Shadowrocket、Stash。按客户端文档导入订阅即可，具体兼容情况请以客户端自身说明为准。",
+          "AI_FAQ_ANSWER_4": "在对应客户端的订阅管理里找到删除或更新选项，重新填入新订阅链接并更新节点列表即可，无需卸载重装。",
+          "AI_FAQ_ANSWER_5": "按年付比月付更划算。基础版年付150元、旗舰版年付350元、团队版年付850元，相当于用十个月价格获得十二个月服务。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "快鱼(Fastfish)旗舰版可以同时几台设备使用？",
+          "AI_FAQ_QUESTION_2": "套餐流量用超了会怎样？",
+          "AI_FAQ_QUESTION_3": "各平台分别推荐哪个客户端？",
+          "AI_FAQ_QUESTION_4": "订阅链接更新后需要重新配置吗？",
+          "AI_FAQ_QUESTION_5": "按年付比按月付省多少？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "02de6bb2703a676aaf01e813cd87bceae25dc5fdb8908a2b97b026e18b72bd2d",
+    "sitemap.xml": "d5f7dad9ceaa3b074365e36e9c45bd951dda874b324baeb466cd8d56e8328f93",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "97516ab2034cf471d5a3bc55bdc227c78f67be2dc433e08a4c7a2180fe9f2357"
+}
